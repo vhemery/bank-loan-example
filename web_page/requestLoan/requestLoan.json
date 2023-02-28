@@ -2,7 +2,7 @@
   "modelVersion" : "2.3",
   "id" : "requestLoan",
   "name" : "requestLoan",
-  "lastUpdate" : 1677539358592,
+  "lastUpdate" : 1677542257426,
   "rows" : [
     [
       {
@@ -258,7 +258,7 @@
                             "propertyValues" : {
                               "cssClasses" : {
                                 "type" : "constant",
-                                "value" : "list-group"
+                                "value" : ""
                               },
                               "hidden" : {
                                 "type" : "constant",
@@ -1062,7 +1062,7 @@
     },
     {
       "id" : "ae91a67e-bc17-4eab-b366-c5a81a802c8c",
-      "name" : "https://bootswatch.com/5/minty/bootstrap.css",
+      "name" : "https://bootswatch.com/5/quartz/bootstrap.css",
       "type" : "css",
       "order" : -1,
       "external" : true
